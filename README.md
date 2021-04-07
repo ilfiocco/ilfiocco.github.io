@@ -3,7 +3,7 @@
 TODO
 ====
 
-[ ] Titolo
+[x] Titolo
 [ ] Google Maps
 [ ] Instagram
 [ ] TikTok
