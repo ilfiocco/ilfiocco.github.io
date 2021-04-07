@@ -12,3 +12,4 @@ TODO
 [ ] Whatsapp
 [ ] Contattaci
 [ ] Dominio
+[ ] Cartolaio Amico
