@@ -4,7 +4,7 @@ TODO
 ====
 
 [x] Titolo
-[ ] Google Maps
+[x] Google Maps
 [ ] Instagram
 [ ] TikTok
 [ ] Facebook
